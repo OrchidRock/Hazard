@@ -1,0 +1,6 @@
+# no picture
+*.png
+# no docx,doc
+*.doc*
+#no jar
+*.jar
